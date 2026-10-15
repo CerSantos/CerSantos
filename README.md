@@ -1,7 +1,6 @@
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=95&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
 </div>
-
 ### 💫 Sobre mim:
 #### Olá, eu sou o Carlos Eduardo! <br><br>Estudante de Engenharia da Computação (UEA) com foco em desenvolvimento de software e soluções digitais.<br><br>- 💻 **Trabalhando atualmente em:** Desenvolvimento de sistemas e aplicações.<br>- 👥 **Buscando colaborar em:** Projetos open-source e criação de novas ferramentas digitais.<br>- 🛠️ **Procurando ajuda com:** Arquitetura de software, clean code e otimização de sistemas.<br>- 📚 **Aprendendo no momento:** Engenharia de software e TI avançada para a área pública.<br>- 💡 **Pergunte-me sobre:** Engenharia da Computação, desenvolvimento e tecnologia.<br>- 🎲 **Curiosidade:** Quando estou offline, estou jogando Baldur's Gate 3 ou criando campanhas de RPG de mesa.<br>
 
@@ -15,5 +14,7 @@
 ![](https://github-readme-stats.shion.dev/api?username=CerSantos&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=CerSantos&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=CerSantos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img data-importer="snake" src="https://raw.githubusercontent.com/CerSantos/CerSantos/snake-output/snake.svg" alt="Snake animation" />
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
