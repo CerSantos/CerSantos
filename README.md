@@ -1,8 +1,8 @@
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=95&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=95&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light" />
 </div>
 <h2 data-importer="text" align="left">💫 Sobre mim: </h2>
-Olá, eu sou o Carlos Eduardo! <br>Estudante de Engenharia da Computação (UEA) com foco em desenvolvimento de software e soluções digitais.<br><br>- 💻 Trabalhando atualmente em: Desenvolvimento de sistemas e aplicações.<br>- 👥 Buscando colaborar em: Projetos open-source e criação de novas ferramentas digitais.<br>- 🛠️ **Procurando ajuda com: Arquitetura de software, clean code e otimização de sistemas.<br>- 📚 Aprendendo no momento: Engenharia de software e TI avançada para a área pública.<br>- 💡 Pergunte-me sobre: Engenharia da Computação, desenvolvimento e tecnologia.<br>- 🎲 Curiosidade: Quando estou offline, estou jogando diferentes jogos, como Baldur's Gate 3, ou criando campanhas de RPG de mesa.<br>
+Olá, eu sou o Carlos Eduardo! <br>Estudante de Engenharia da Computação (UEA) com foco em desenvolvimento de software e soluções digitais.<br><br>- 💻 Trabalhando atualmente em: Desenvolvimento de sistemas e aplicações.<br>- 👥 Buscando colaborar em: Projetos open-source e criação de novas ferramentas digitais.<br>- 🛠️ Procurando ajuda com: Arquitetura de software, clean code e otimização de sistemas.<br>- 📚 Aprendendo no momento: Engenharia de software e TI avançada para a área pública.<br>- 💡 Pergunte-me sobre: Engenharia da Computação, desenvolvimento e tecnologia.<br>- 🎲 Curiosidade: Quando estou offline, estou jogando diferentes jogos, como Baldur's Gate 3, ou criando campanhas de RPG de mesa.<br>
 
 
 ## 🌐 Redes Sociais:
