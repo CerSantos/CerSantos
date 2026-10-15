@@ -14,7 +14,5 @@
 ![](https://github-readme-stats.shion.dev/api?username=CerSantos&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=CerSantos&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=CerSantos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<img data-importer="snake" src="https://raw.githubusercontent.com/CerSantos/CerSantos/snake-output/snake.svg" alt="Snake animation" />
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
